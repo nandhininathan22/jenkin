@@ -141,3 +141,17 @@ git pull origin master
 git add README
 git remote add origin nandhininathan22@gmail.com:cdown/thats.git
 git push -u origin master
+git init
+git add .
+git commit -m "my first file"
+git remote add origin https://github.com/nandhininathan22/ubuntu.git
+git pull origin master
+git pul origin master
+git pull origin master
+cd ~/.ssh
+$makdir key_backup
+mkdir key_backup
+cd id_rsa* 
+cd id_rsa* key backup
+rm id_rsa*
+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
