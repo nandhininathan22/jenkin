@@ -108,3 +108,36 @@ git commit -m "first commit message"
 git remote and origin https://github.com/nandhininathan22/ubuntu.git
 git origin master
 git push -u origin master
+git init
+git add .
+git commit -m "my first file"
+git remote add origin https://github.com/nandhininathan22/jenkin-example.git
+git pull origin master
+git push origin master
+cd ~/.ssh
+ssh-keygen -t rsa -C "nandhininathan22@gmail.com"
+getdit id_rsa.pub
+gedit id_rsa.pub
+mkdir key_backup
+cd id_rsa*key backup
+rmcd id_rsa* key backup
+cd id_rsa* key backup
+rm id_rsa*
+gedit id_rsa.pub
+mkdir key_backup
+cd id_rsa* key backup
+rm id_rsa*
+gedit id_rsa.pub
+ssh_add
+sudo apt_get install git_core git_gui git_doc
+rm id_rsa*
+gedit id_rsa.pub
+cd/jenkin-example
+git init
+git add .
+git commit -m "my first file"
+git remote add origin https://github.com/nandhininathan22/ubuntu.git
+git pull origin master
+git add README
+git remote add origin nandhininathan22@gmail.com:cdown/thats.git
+git push -u origin master
