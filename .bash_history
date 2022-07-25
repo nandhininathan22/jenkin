@@ -99,3 +99,12 @@ chmod +x hello.sh
 ll
 /home/ubuntu/script/hello.sh
 /home/ubuntu/script/hello world.sh
+cd/hello world
+cd/hello.sh
+cd/ubuntu
+git init
+git add .
+git commit -m "first commit message"
+git remote and origin https://github.com/nandhininathan22/ubuntu.git
+git origin master
+git push -u origin master
