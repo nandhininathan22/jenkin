@@ -155,3 +155,21 @@ cd id_rsa*
 cd id_rsa* key backup
 rm id_rsa*
 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
+git init
+git add .
+git commit -m "my first file"
+git remote add origin https://github.com/nandhininathan22/ubuntu.git
+https://github.com/nandhininathan22/jenkin-example.git
+https://github.com/nandhininathan22/ubuntu.git
+git remote add origin https://github.com/nandhininathan22/ubuntu.git
+git pull origin master
+git push origin master
+pwd
+ll
+git clone https://github.com/nandhininathan22/jenkin-example.git
+git pull origin master
+cd ~/.ssh
+$mkdir key_backup
+grdit id_rsa.pub
+gedit id_rsa.pub
+ssh-add
