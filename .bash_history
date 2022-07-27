@@ -173,3 +173,11 @@ $mkdir key_backup
 grdit id_rsa.pub
 gedit id_rsa.pub
 ssh-add
+cd/ubuntu
+cd/jenkin
+git init
+git add .
+git commit -m "my first file"
+git remote add origin https://github.com/nandhininathan22/jenkin.git
+git pull origin master
+git pull origin main
